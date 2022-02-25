@@ -24,4 +24,8 @@ if len(name.split()[0]) < 20:
 print(request.data)
 
 
-# testando o git esta apresentando erro 
+# testando o git esta apresentando erro aqui deu certo 
+
+# agora testar se é necessario digitar a chave 
+
+
