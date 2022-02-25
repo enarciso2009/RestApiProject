@@ -1,0 +1,1 @@
+mongodump --uri mongodb+srv://enarciso:<PASSWORD>@cluster0.vwell.mongodb.net/<DATABASE> 
